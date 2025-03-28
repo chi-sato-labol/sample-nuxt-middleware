@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Admin Page</h1>
+    <h1 class="text-xl bold">Admin Page</h1>
     <p>このページは管理者のみが閲覧できます。</p>
   </div>
 </template>
